@@ -6,6 +6,7 @@ This application enables users to interact with a MySQL database through a conve
 - Table of Contents
   - [Description](#description)
   - [Installation](#installation)
+  - [Walkthrough](#walkthrough)
   - [License](#license)
   - [Questions](#questions)
 
@@ -15,7 +16,7 @@ Run this command to install dependencies.
 npm install
 ```
 
-## Walkthrough Video
+## Walkthrough
 [Walkthrough video](https://drive.google.com/file/d/1jOUGybC4QLX8dXzMoeDY_lyi8z0pl2lV/view)
 
 
