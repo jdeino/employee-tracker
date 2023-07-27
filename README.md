@@ -16,7 +16,7 @@ npm install
 ```
 
 ## Walkthrough Video
-[Walkthrough video]([https://drive.google.com/file/d/163YzxonuBw_KisTu1btjfKt9SEWfZsoZ/view](https://app.screencastify.com/manage/videos/0KmRJNN8gvHdjLiTTsuE))
+[Walkthrough video](https://drive.google.com/file/d/1jOUGybC4QLX8dXzMoeDY_lyi8z0pl2lV/view)
 
 
 ## License
