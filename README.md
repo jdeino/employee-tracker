@@ -15,6 +15,10 @@ Run this command to install dependencies.
 npm install
 ```
 
+## Walkthrough Video
+[Walkthrough video]([https://drive.google.com/file/d/163YzxonuBw_KisTu1btjfKt9SEWfZsoZ/view](https://app.screencastify.com/manage/videos/0KmRJNN8gvHdjLiTTsuE))
+
+
 ## License
 ```
 This application is covered under MIT
