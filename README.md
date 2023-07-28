@@ -13,7 +13,7 @@ This application enables users to interact with a MySQL database through a conve
 ## Installation
 Run this command to install dependencies. 
 ```
-npm install
+npm i inquirer@8.2.4
 ```
 
 ## Walkthrough
